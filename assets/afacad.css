@@ -1,0 +1,21 @@
+@font-face {
+  font-family: 'Afacad Flux';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(afacad-0.woff2) format('truetype');
+}
+@font-face {
+  font-family: 'Afacad Flux';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(afacad-1.woff2) format('truetype');
+}
+@font-face {
+  font-family: 'Afacad Flux';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(afacad-2.woff2) format('truetype');
+}
